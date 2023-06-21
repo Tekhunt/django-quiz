@@ -1,0 +1,7 @@
+__pycache__
+quiz-env
+.vscode
+.env
+db.sqlite3
+env
+venv
